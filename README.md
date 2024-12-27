@@ -16,29 +16,6 @@ Includes a MiniMap, zoom controls, and a background grid for better navigation.
 
 State Management: The app uses React's state to manage nodes and edges dynamically.
 
-Installation
-
-Clone this repository:
-bash
-Copy code
-git clone https://github.com/your-username/react-flow-editor.git
-Navigate to the project directory:
-bash
-Copy code
-cd react-flow-editor
-Install the dependencies:
-bash
-Copy code
-npm install
-Start the development server:
-bash
-Copy code
-npm start
-
-Usage
-
-Open the app in your browser at http://localhost:3000.
-
 Use the sidebar to:
 
 Add Node: Click the "Add Node" button to create a new node.
